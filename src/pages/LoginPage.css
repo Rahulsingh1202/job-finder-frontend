@@ -9,7 +9,7 @@
 /* ========== OUTER BACKGROUND WITH IMAGE ========== */
 .login-page-background {
   min-height: 100vh;
-  background-image: url('C:\Users\rahul\OneDrive\Desktop\JOB-Finder\frontend\src\images\jobfinderBG.jpg'); /* Add your image path here */
+  background-image: url('frontend\src\images\Jobfinder.jpg');  /* Add your image path here */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -264,7 +264,7 @@
 
 /* ========== PURPLE INNER CARD WITH IMAGE ========== */
 .purple-inner-card {
-  background-image: url('C:\Users\rahul\OneDrive\Desktop\JOB-Finder\frontend\src\images\jobfinderBG.jpg'); /* Add your image path */
+  background-image: url('frontend\src\images\Jobfinder.jpg');  /* Add your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
